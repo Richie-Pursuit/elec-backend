@@ -16,7 +16,7 @@ app.use("/products", productsController);
 
 // ROUTES
 app.get("/", (req, res) => {
-  res.send("Welcome to ELECTRIc App");
+  res.send("Welcome to ELECTRIC App!");
 });
 
 
